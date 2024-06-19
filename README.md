@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hemavathi, Iam currently studying btech in Computer science 
+- 👋 Hi, I’m Hemavathi,currently studying btech in Computer science 
 - 👀 I’m interested in learning new technologies..
 - 🌱 I’m currently learning fullstackwebdevelopment
 - 💞️ I’m looking to collaborate with working professionals in MNCs
